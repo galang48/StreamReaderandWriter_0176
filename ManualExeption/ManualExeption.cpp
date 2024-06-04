@@ -15,6 +15,7 @@ int main()
 	catch (...) {
 		cout << "Default Pengecualian dieksekusi" << endl;
 	}
+	return 0;
 }
 
 
